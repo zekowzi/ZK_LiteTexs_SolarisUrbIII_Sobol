@@ -7,4 +7,6 @@ Ne vous fiez pas au nom LiteTexs Urbino IV Sobol dans l'archive : je me suis pla
 # Installation
 Winrar ou alternatives requise. Glissez le contenu de l'archive dans le dossier steamapps/common.
 
-Ce mod est protégé par une licence TOUT DROITS RÉSERVÉS - Kowzii 2026
+
+***Il est formellement INTERDIT de réupload ce mod en dehors de ses canaux officiels (Omsistuff)***<br>
+***Tous droits réservés - Kowzi - 2026***
